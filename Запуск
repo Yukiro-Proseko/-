@@ -1,6 +1,0 @@
-Установите Golang https://go.dev/dl/
-Установите Git https://git-scm.com/downloads
-C помощью командной строки клонируйте проект с GitHub:
-git clone https://github.com/Yukiro-Proseko/-.git
-Перейдите в директорию с проектом и запустите сервер с помощью команды:
-go run ./...
